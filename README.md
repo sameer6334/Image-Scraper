@@ -22,7 +22,4 @@ A Python project to scrape images from Google Image Search based on a search que
 
 ---
 
-## **How to Run**
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/Image-Scraper.git
+
